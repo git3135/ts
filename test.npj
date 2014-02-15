@@ -1,11 +1,10 @@
 test/
 test/stories/
 test/stories/in progress/
-test/stories/in test/
+test/stories/in progress/storythree.nst
 test/stories/completed/
-test/stories/accepted/
+test/stories/completed/storyfour.nst,jack.yu@lexemus.com,1
 test/stories/storyone.nst
 test/stories/storytwo.nst
-test/stories/storythree.nst
-test/stories/storyfour.nst
-test/resources/
+Team:
+Yu,Jack,jack.yu@lexemus.com,Developer
