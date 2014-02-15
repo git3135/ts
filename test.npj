@@ -2,7 +2,8 @@ test/
 test/stories/
 test/stories/in progress/
 test/stories/in progress/storythree.nst
+test/stories/completed/
+test/stories/completed/storyfour.nst,,1
 test/stories/storyone.nst
 test/stories/storytwo.nst
-test/stories/storyfour.nst
 Team:
